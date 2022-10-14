@@ -16,3 +16,5 @@
 Внимание: во датотеката „CVD-prediction.py“ во ред 12 и 15 треба да бидат внесени апсолутните патеки до датотеките „finalno.p“ и „heart.csv“.
 
 ВИДЕО ВОДИЧ ЗА КОРИСТЕЊЕ НА ВЕБ АПЛИКАЦИЈАТА: https://youtu.be/cixNholHLnI
+
+ЛИНК ДО ВЕБ АПЛИКАЦИЈАТА: https://cvd-diplomska.herokuapp.com/
