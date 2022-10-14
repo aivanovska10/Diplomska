@@ -11,7 +11,7 @@
 - xgboost
 - scikit-learn == 1.0.2
 
-Команда за да се подигне апликацијата во Python: „streamlit run /%path-to-file%/CVD-prediction.py“
+Команда за да се подигне апликацијата на localhost во Python: „streamlit run /%path-to-file%/CVD-prediction.py“
 
 Внимание: во датотеката „CVD-prediction.py“ во ред 12 и 15 треба да бидат внесени апсолутните патеки до датотеките „finalno.p“ и „heart.csv“.
 
